@@ -9,7 +9,7 @@
  
   “执古之道，以御今之有。”希望这个项目在未来能不断充实，成为航天人自己的**Areospace-DIY**！ 
                                                                                                                                                                                                                                              
- <div align   对齐="right">
+ <div align="right">
 
 **Aray42**
 <br>
